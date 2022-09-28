@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+.anchor{
+    color: black;
+}
+
+.anchor:hover{
+    color: white;
+}
+
+#id1{
+    text-align: center;
+    color: white;
+    background-color: #808080;
+    border-radius: 25px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 5px;
+    width: 50%;
+    margin: auto;
+}
+
+#id2{
+    font-size: medium;
+    border-radius: 25px;
+    background-color: #ffa31a;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 130px;
+}
+
+#id3{
+    font-size: medium;
+    border-radius: 25px;
+    background-color: #ffa31a;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+#id4{
+    font-size: medium;
+    border-radius: 25px;
+    background-color: #ffa31a;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+#id5{
+    font-size: medium;
+    border-radius: 25px;
+    background-color: #ffa31a;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
